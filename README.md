@@ -134,7 +134,7 @@ This task evaluates:
 Special thanks to the SCC team for providing this opportunity to demonstrate MATLAB skills.
 
 ## 📧 Contact
-For any queries regarding this submission, please contact via institute email.
+For any queries regarding this submission, please contact via institute email(me24i1014@iiitdm.ac.in).
 
 ---
 
