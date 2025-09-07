@@ -5,8 +5,10 @@ This repository contains the solutions for the MATLAB Task 2025-26. The task dem
 
 ## 👤 Author
 **Name:** MOHAMMED MISHAL P 
-**-Institute Email:** me24i1014@iiitdm.ac.in 
-**-Submission Date:** September 5, 2025
+---
+**Institute Email:** me24i1014@iiitdm.ac.in 
+---
+**Submission Date:** September 5, 2025
 
 ## 📚 Prerequisites
 - MATLAB (installed via MathWorks account with institute email)
