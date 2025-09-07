@@ -121,13 +121,7 @@ This recruitment task evaluates:
 - [MATLAB Onramp](https://matlabacademy.mathworks.com/) (Mandatory)
 - MATLAB Tutorial (Provided in task document)
 - Official MATLAB Documentation
-
-## ⚠️ Important Notes
-- All scripts follow MATLAB best practices
-- Code is original and written independently
-- ChatGPT was used only for debugging purposes
-- Institute email ID was used for MathWorks account
-
+ 
 ## 📝 Submission Details
 - **Deadline:** September 5, 2025
 - **Submission Method:** GitHub repository link shared in group
