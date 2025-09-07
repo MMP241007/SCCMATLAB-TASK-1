@@ -14,7 +14,7 @@ This repository contains the solutions for the MATLAB Task 2025-26. The task dem
 - Basic understanding of matrix operations and plotting in MATLAB
 
 ## 🎯 Task Objectives
-This recruitment task evaluates:
+This task evaluates:
 - Ability to learn MATLAB in a short timeframe
 - Matrix manipulation and conditional operations
 - Data visualization and plotting capabilities
@@ -138,4 +138,4 @@ For any queries regarding this submission, please contact via institute email.
 
 ---
 
-**Note:** This task was completed as part of the MATLAB Recruitment process for 2025-26. The solutions demonstrate proficiency in MATLAB programming and adherence to the given requirements.
+**Note:** This task was completed as part of the MATLAB Tasks of System Coding Club 2025-26. The solutions demonstrate proficiency in MATLAB programming and adherence to the given requirements.
