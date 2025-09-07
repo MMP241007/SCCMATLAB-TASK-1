@@ -4,9 +4,9 @@
 This repository contains the solutions for the MATLAB Task 2025-26. The task demonstrates proficiency in MATLAB programming through matrix operations, data visualization, and mathematical function plotting.
 
 ## 👤 Author
-**Name:** MOHAMMED MISHAL P _
-**Institute Email:** me24i1014@iiitdm.ac.in _
-**Submission Date:** September 5, 2025
+**Name:** MOHAMMED MISHAL P  
+**Institute Email:** me24i1014@iiitdm.ac.in  
+**Submission Date:** September 5, 2025  
 
 ## 📚 Prerequisites
 - MATLAB (installed via MathWorks account with institute email)
